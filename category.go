@@ -1,6 +1,6 @@
 package main
 
 type category struct {
-	ID string
+	ID   string
 	Name string
 }
